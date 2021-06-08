@@ -13,4 +13,4 @@ Kotlin
 2. Load web page
 3. Enable zoom funtionality
 4. Swipe to refresh -> takes you back to home page
-5. Back fucionaity -> stores history of navigatio
+5. Back funtionality -> stores history of navigatio
