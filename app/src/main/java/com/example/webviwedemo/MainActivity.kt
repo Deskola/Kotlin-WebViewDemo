@@ -7,7 +7,7 @@ import android.os.Handler
 import android.os.Looper
 
 class MainActivity : AppCompatActivity() {
-    private var TIME_OUT: Long = 2000
+    private var TIME_OUT: Long = 1000
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
